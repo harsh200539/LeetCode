@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/harsh200539/LeetCode/tree/master/0001-two-sum) |
 | [0455-assign-cookies](https://github.com/harsh200539/LeetCode/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/harsh200539/LeetCode/tree/master/0455-assign-cookies) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/harsh200539/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
