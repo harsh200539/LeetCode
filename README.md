@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harsh200539/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0455-assign-cookies](https://github.com/harsh200539/LeetCode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/harsh200539/LeetCode/tree/master/0890-lemonade-change) |
+| [0907-koko-eating-bananas](https://github.com/harsh200539/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/harsh200539/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 ## Two Pointers
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/harsh200539/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harsh200539/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0907-koko-eating-bananas](https://github.com/harsh200539/LeetCode/tree/master/0907-koko-eating-bananas) |
 ## Sliding Window
 |  |
 | ------- |
