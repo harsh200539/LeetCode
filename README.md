@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/harsh200539/LeetCode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/harsh200539/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harsh200539/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0162-find-peak-element](https://github.com/harsh200539/LeetCode/tree/master/0162-find-peak-element) |
 | [0455-assign-cookies](https://github.com/harsh200539/LeetCode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/harsh200539/LeetCode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/harsh200539/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/harsh200539/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harsh200539/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0162-find-peak-element](https://github.com/harsh200539/LeetCode/tree/master/0162-find-peak-element) |
 | [0907-koko-eating-bananas](https://github.com/harsh200539/LeetCode/tree/master/0907-koko-eating-bananas) |
 ## Sliding Window
 |  |
