@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/harsh200539/LeetCode/tree/master/0001-two-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/harsh200539/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/harsh200539/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,8 +42,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/harsh200539/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/harsh200539/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/harsh200539/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+## String
+|  |
+| ------- |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/harsh200539/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
