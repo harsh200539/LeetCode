@@ -67,4 +67,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harsh200539/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/harsh200539/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harsh200539/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0328-odd-even-linked-list](https://github.com/harsh200539/LeetCode/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
